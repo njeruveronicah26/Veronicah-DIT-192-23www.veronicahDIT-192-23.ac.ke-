@@ -1,0 +1,45 @@
+/*General body styling */
+body {
+    font-family: sans-serif;
+    margin: 2rem; 
+  }
+header{
+     background-color: #0000ff;
+     padding: 1rem; 
+     color: #FFFFFF;
+     text-align: center;
+}
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+nav ul li{
+  display: inline;
+  margin-right: 1rem;
+  color: #0000FF;
+  cursor:pointer;
+}
+h1,h2 {
+  color: #008000; 
+}
+
+ img {
+  display: block;
+  margin: 2rem auto;
+  max-width: 100%; 
+}
+hr {
+  border: none;
+  height: 1px; 
+  background-color: #FFA500;
+  margin: 2rem 0; 
+}S
+
+
+ 
+
+
+
+
+
